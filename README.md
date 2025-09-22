@@ -16,3 +16,14 @@ const WaTCher = {
   },
   currentlyLearning: ["Cryptography", "IDS/IPS", "PowerShell Scripting"],
 };
+
+💡 Skills
+Programming: Bash, Python, PowerShell
+
+Networking: TCP/IP, DNS, VPNs, Firewall Management
+
+Security Tools: Wireshark, Nmap, Burp Suite, Metasploit
+
+System Admin: Linux, Windows, Virtualization
+
+Workflow Optimization: Automation, Scripting, Troubleshooting
