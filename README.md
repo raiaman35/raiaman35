@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🚀 Aspiring SOC Analyst | Passionate about defensive security👨‍💻
 
-<!--
-**raiaman35/raiaman35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I thrive on challenge-based learning and hands-on technical exploration. From dissecting packets in Wireshark to automating tasks with PowerShell, I’m building mastery across Windows, Linux, and everything in between.
 
-Here are some ideas to get you started:
+## 🔍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const WaTCher = {
+  role: "Cybersecurity Learner & Network Explorer",
+  programmingLanguages: ["Bash", "Python", "PowerShell", "C"],
+  askMeAbout: ["packet analysis", "network troubleshooting", "ethical hacking"],
+  tools: {
+    analysis: ["Wireshark", "tcpdump", "Nmap"],
+    security: ["Kali Linux", "Metasploit", "Burp Suite"],
+    system: ["Linux CLI", "Windows Admin", "Active Directory"],
+  },
+  currentlyLearning: ["Cryptography", "IDS/IPS", "PowerShell Scripting"],
+};
