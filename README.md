@@ -4,7 +4,7 @@
 WaTCher = {
     "name": "Aman Kumar Rai",
     "role": "Aspiring SOC Analyst",
-    "askMeAbout": ["networking", "defensive security tooling", "linux", "ethical hacking..."],
+    "askMeAbout": ["networking", "defensive security tooling", "linux", "ethical hacking..."]
 }
 
 ```
