@@ -61,6 +61,49 @@ WaTCher = {
 |  TryHackMe | SOC Level 1 | 
 
 ---
+## Projects
+
+---
+
+### SOC Splunk Lab — Real Attack Detection & Incident Report
+> Built a two-VM home lab, simulated a real brute force attack, detected it live in Splunk, and wrote a professional incident report
+
+- Set up two-VM lab environment — Ubuntu (target server) + Kali Linux (attacker) using VirtualBox
+- Simulated a real SSH brute force attack from Kali against the Ubuntu server
+- Forwarded logs to **Splunk Free SIEM** and caught the attack in real time
+- Built a Splunk dashboard showing full attack timeline — failed logins, source IP, timestamps
+- Wrote a complete **incident report**
+- **Tools:** VirtualBox · Ubuntu · Kali Linux · Splunk · SSH · Linux CLI
+
+[![View Project](https://img.shields.io/badge/View_Project-2e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiaman35/soc-splunk-lab)
+
+---
+
+### Phishing Investigation Case File
+> Investigated 5 live verified phishing URLs from PhishTank and created a case file
+
+- Analyzed 5 real active phishing url.
+- Discovered shared attacker infrastructure — 3 sites sharing same IP (45.74.47.19, SLAYER GROUP LIMITED)
+- Identified triple Cloudflare proxy anonymization
+- Mapped all samples to **MITRE ATT&CK**
+- **Tools:** VirusTotal · URLScan.io · AbuseIPDB · WHOIS
+
+[![View Case File](https://img.shields.io/badge/View_Project-2e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiaman35/phishing-investigation-case-file)
+
+---
+
+### Python Security Toolkit
+> Command-line security toolkit with port scanner and hash identifier built for defensive security workflows
+
+- **Port Scanner** — Multithreaded scanner covering 1,024 ports with automatic service identification (SSH, HTTP, RDP, MySQL)
+- #️**Hash Identifier** — Detects MD5, SHA1, SHA256, SHA512 hash types and generates file hashes for malware analysis
+- **Built with:** Python
+
+[![View Toolkit](https://img.shields.io/badge/View_Project-2e75b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiaman35/python-security-toolkit)
+
+---
+
+
 
 ## GitHub Stats
 
