@@ -1,4 +1,4 @@
-## About Me
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b></h2>
 
 ```python
 WaTCher = {
@@ -11,8 +11,7 @@ WaTCher = {
 
 ---
 
-## Skills
-
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
 <div align="center">
 
 **Security Operations**
@@ -51,7 +50,7 @@ WaTCher = {
 
 ---
 
-## Certifications & Learning
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Certifications & Learning</b></h2>
 
 | Platform | Certification / Path | 
 |----------|---------------------|
@@ -61,9 +60,7 @@ WaTCher = {
 |  TryHackMe | SOC Level 1 | 
 
 ---
-## Projects
-
----
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b></h2>
 
 ### SOC Splunk Lab — Real Attack Detection & Incident Report
 > Built a two-VM home lab, simulated a real brute force attack, detected it live in Splunk, and wrote a professional incident report
@@ -105,7 +102,7 @@ WaTCher = {
 
 
 
-## GitHub Stats
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> GitHub Stats</b></h2>
 
 <div align="center">
 
@@ -116,17 +113,17 @@ WaTCher = {
 
 ---
 
-## Connect With Me
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Connect With Me</b></h2>
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/rai-aman35/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-<a href="https://tryhackme.com/p/WaTCher">
+  <a href="https://tryhackme.com/p/WaTCher">
     <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-<a href="raiaman9123@gmail.com">
+  <a href="raiaman9123@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
