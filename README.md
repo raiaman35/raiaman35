@@ -16,7 +16,6 @@ WaTCher = {
 
 **Security Operations**
 
-![SOC](https://img.shields.io/badge/Security_Operations-0d1117?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-1a2a4a?style=for-the-badge)
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection_%26_Hunting-0d1117?style=for-the-badge)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-1a2a4a?style=for-the-badge)
