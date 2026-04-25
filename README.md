@@ -29,10 +29,6 @@ WaTCher = {
 ## 
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills:</b></h2>
-<p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/WaTCher.png" alt="TryHack Me" />
-</p>
-
 <p align="center"><i>
 Amidst the vast expanse of the cybersecurity realm, I derive significant fulfillment from engaging in meaningful interactions with fellow security professionals. My journey is centered on building expertise in defensive security, where I actively work on hands-on labs and real-world scenarios through platforms like TryHackMe. Alongside this practical learning, I am preparing for industry-recognized certifications and building projects to strengthen my foundation. My role encompasses not only facilitating the seamless exchange of knowledge but also fostering collaborative efforts toward fortifying systems and driving innovative solutions in the ever-evolving landscape of digital security.
 </i></p>
